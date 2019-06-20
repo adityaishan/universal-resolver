@@ -1,4 +1,4 @@
-This is a simple API Library implementaation built for Python3 with backwards compatibility for python2.x. It is intended to make a simple http request to a web service. The web service will handle the resolving of the DID and will return a DDO (DID Document) through the HTTP response.
+This is a simple API Library implementation built for Python3 with backwards compatibility for python2.x. It is intended to make a simple http request to a web service. The web service will handle the resolving of the DID and will return a DDO (DID Document) through the HTTP response.
 
 implementation: assign a config file with a list of URLs pointing to a resolver web service. This is done, by creating a UniversalUriResolver object and assign it a string with the name of the file.
 
